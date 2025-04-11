@@ -2,7 +2,6 @@
 - 👀 I’m interested in graphics, coding(back and front end)
 - 🌱 I’m currently learning three.js and Spring Boot
 - 📫 How to reach me : giorgio.dipasquale@outlook.it
-- 😄 Pronouns: it (I'm joking, it's "he"/"him", of course...)
 - ⚡ Fun fact: All work and no play makes Giorgio a dull boy
 
 <!---
